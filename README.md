@@ -3,7 +3,7 @@
 <!-- Connection or Social Media links -->
 <p align="center">
 
-<a href="mailto:pintu1481999@gmail.com", target="_blank">
+<a href="mailto:pintu1481999@gmail.com" target="_blank">
     <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
 
