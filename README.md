@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="#">
+    <img src="https://github.com/pintuprajapati/self/blob/f1ce452c5c386099278966f544f3c16fabb89d03/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
 
 <!--
 **pintuprajapati/pintuprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="self/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
 
-![image](https://user-images.githubusercontent.com/37404377/190403721-678766a8-06d0-47ef-a4c3-9aabce81fae6.png)
 
 -->
