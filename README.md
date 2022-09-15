@@ -1,7 +1,17 @@
 ### Hi there 👋
-<a href="#">
-    <img src="https://github.com/pintuprajapati/self/blob/f1ce452c5c386099278966f544f3c16fabb89d03/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a> 
+
+<!-- Connection or Social Media links -->
+<p align="center">
+
+<a href="pintu1481999@gmail.com">
+    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+
+<a href="https://in.linkedin.com/in/pintuprajapati">
+    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+    
+</p>
 
 <!--
 **pintuprajapati/pintuprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
