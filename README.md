@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-<!-- Connection or Social Media links -->
-<p align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com" target="_blank">
-    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
-
-<a href="https://in.linkedin.com/in/pintuprajapati" target="_blank">
-    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
-    
-</p>
-
 <!--
 **pintuprajapati/pintuprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +30,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Pintu, a full-time Python (Django) developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Unit Testing  
+- 🌱 I’m currently learning Django Channels  
   
 
 - ❓ Ask me about anything related to Python and Django and related technologies  
@@ -55,7 +42,7 @@ Here are some ideas to get you started:
 - 😍 I like Chess and Anime
   
 
-- 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail] 
+- 📬 How to reach me: You can find me at [LinkedIn](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com) 
 - 
   
 
@@ -118,10 +105,25 @@ Here are some ideas to get you started:
 
 
 ## Connect with me  
+<!--
 <div align="center">
 <a href="https://github.com/pin-kun" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+-->
+    
+<!-- Connection or Social Media links -->
+<p align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com" target="_blank">
+    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+<tb>
+<a href="https://in.linkedin.com/in/pintuprajapati" target="_blank">
+    <img src="https://github.com/pintuprajapati/self/blob/c9476952a4ca1652169a48972a4cfc7f56faffc7/Badges/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+    
+</p>
 
 <!--
 <a href="https://twitter.com/iamrishavanand" target="_blank">
