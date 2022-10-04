@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   
 
 - 📬 How to reach me: You can find me at [LinkedIn](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com) 
-- 
   
 
 <br/>  
