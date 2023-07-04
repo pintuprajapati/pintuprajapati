@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Pintu, a full-time Python (Django) developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Django Channels  
+- 🌱 I’m currently working on Django Project
   
 
-- ❓ Ask me about anything related to Python and Django and related technologies  
+- ❓ Ask me about anything related to Python, Django and related technologies  
   
 
-- ⚡ Interest: Blockchain and Crypto Currencies (NFT, DeFi, Staking, Web 3.0)  
+- ⚡ Interest: Blockchain and Crypto Currencies (NFT, DeFi, Staking, Web 3.0, and yeah Bitcoin ₿)  
   
 
 - 😍 I like Chess and Anime
   
 
-- 📬 How to reach me: You can find me at [LinkedIn](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com) 
+- 📬 How to reach me: You can find me at [LinkedIn](https://in.linkedin.com/in/pintuprajapati) </a> or mail me [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pintu1481999@gmail.com) (Right click and open in new tab)
   
 
 <br/>  
@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- </tr> </td> -->
+
+<!-- Other -->
 </table>  
 
 
